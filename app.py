@@ -1,2 +1,2 @@
 print("Start App")
-print("User Work") # 追加
+print("Main Update") # ここを書き換える
